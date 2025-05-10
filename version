@@ -1,1 +1,7 @@
-1.2.0
+{
+    versions: {
+        "ASMapUtils": {
+            "devChannel": [0,0,1]
+        }
+    }
+}
